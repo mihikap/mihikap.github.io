@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mihikap/mihikap.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hello! I'm Mihika Prabhu. I am a final-year PhD student in the Quantum Photonics Group at MIT, and my research interests lie in developing integrated photonic systems for the scientific and consumer technologies of the future. 
 
 ### Markdown
 
