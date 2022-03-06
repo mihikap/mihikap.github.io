@@ -1,6 +1,6 @@
 ## Hello! I'm Mihika Prabhu. 
 
-I am a final-year PhD student in the Quantum Photonics Group at MIT, and my research interests lie in developing integrated photonic systems for the scientific and consumer technologies of the future. 
+I am a final-year PhD student in the Quantum Photonics Group at MIT. My research interests lie in developing integrated photonic systems for the scientific and consumer technologies of the future. 
 
 ### Markdown
 
